@@ -19,7 +19,7 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 ## How to Install
 
-1. Git Clone https://github.com/ajardinelc/Hunger-Captian.git
+1. Git Clone https://github.com/CortezWilkins/Hunger-Captain.git
 
 ```
 git clone 
